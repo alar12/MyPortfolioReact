@@ -39,7 +39,7 @@ const AnimatedRoutes = () => {
         classNames={getTransitionClass(location.pathname)}
       >
         <Routes location={location}>
-        <Route path="/" element={<HomeSection />} />
+        <Route path="MyPortfolioReact/" element={<HomeSection />} />
           <Route path="/about" element={<AboutSection />} />
           <Route path="/experience" element={<ExperienceSection />} />
           <Route path="/education" element={<EducationSection />} />

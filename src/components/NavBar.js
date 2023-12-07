@@ -36,7 +36,7 @@ const NavBar = () => {
         <ul className={`menu ${isMenuOpen ? 'active' : ''}`}>
           <li>
             <NavLink
-              to="/"
+              to="/MyPortfolioReact"
               className={({ isActive }) => isActive ? 'menu-btn active' : 'menu-btn'}
               end
             >
