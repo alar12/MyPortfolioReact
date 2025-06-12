@@ -9,9 +9,39 @@ function ExperienceSection() {
           <div className="card" data-aos="flip-left">
             <div className="box">
               <i className="fas fa-laptop-code"></i>
-              <div className="text">Valuemomentum - Software Engineer (Data Tech Associate)</div>
+              <div className="text">Schnucks (Seneor Software Engineer Full Stack)</div>
               <p>
                 Engaged in backend development tasks for client websites by crafting advanced XQuery functions on the MarkLogic NoSQL platform ensuring seamless integration with the Mendix front-end software.
+              </p>
+            </div>
+          </div>
+
+          <div className="card" data-aos="flip-left">
+            <div className="box">
+              <i className="fas fa-code"></i>
+              <div className="text">Full Stack Developer - Morgan Stanley</div>
+              <p>
+                
+              </p>
+            </div>
+          </div>
+
+          <div className="card" data-aos="flip-left">
+            <div className="box">
+              <i className="fas fa-code"></i>
+              <div className="text">Full-stack Developer - Wesco International, Inc</div>
+              <p>
+                
+              </p>
+            </div>
+          </div>
+
+          <div className="card" data-aos="flip-left">
+            <div className="box">
+              <i className="fas fa-code"></i>
+              <div className="text">Full-stack Developer - Desert Financial Credit Union</div>
+              <p>
+                
               </p>
             </div>
           </div>
@@ -29,7 +59,7 @@ function ExperienceSection() {
           <div className="card" data-aos="flip-left">
             <div className="box">
               <i className="fas fa-mobile-alt"></i>
-              <div className="text">Intern at Netisoft Consultants</div>
+              <div className="text">Intern at Evoke Technologies</div>
               <p>
                 I have successfully completed an internship with NetiSoft as a react developer. My primary goal is to develop a dashboard page for a photo gallery web application.
               </p>

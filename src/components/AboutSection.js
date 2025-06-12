@@ -59,7 +59,7 @@ function AboutSection() {
             <p className="paragraph">
               I am a motivated computer science graduate with experience in software development, database management, and machine learning. I am passionate about leveraging technology to solve complex problems.
             </p>
-            <a href="https://drive.google.com/file/d/1Vr4B2RfpKKv9jjicD5cqdbg52NRsx_iE/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Resume</a>
+            <a href="" target="_blank" rel="noopener noreferrer">Download Resume</a>
           </div>
         </div>
       </div>
