@@ -11,7 +11,7 @@ function EducationSection() {
               <i className="fas fa-laptop-code"></i>
               <div className="text">Saint Louis University - Master's</div>
               <p>
-                Currently, I'm enrolled in a CS course at SLU for my Master's.
+                Graduated Student in Master's in Computer Science course at Saint Louis University.
               </p>
             </div>
           </div>
