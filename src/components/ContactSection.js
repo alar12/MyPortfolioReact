@@ -116,7 +116,7 @@ function ContactSection() {
                 <i className="fas fa-map-marker-alt"></i>
                 <div className="info">
                   <div className="head">Address</div>
-                  <div className="sub-title">4475 W Pine Blvd, St Louis, MO, 63108</div>
+                  <div className="sub-title">5055 Von Scheele Dr. Apt 711 San Antonio Texas 78229</div>
                 </div>
               </div>
               <div className="row">

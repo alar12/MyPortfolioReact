@@ -4,14 +4,6 @@ import Narayana from '../images/my.jpg'
 
 export const data=[
     {
-        id:1,
-        name:"NetiSoft",
-        image:Slu,
-        url:"https://github.com/alar12/Netisoft",
-        experience:"experience",
-        
-    },
-    {
         id:2,
         name:"MuleSoft",
         image:Klu,
